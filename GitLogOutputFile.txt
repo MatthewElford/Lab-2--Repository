@@ -1,0 +1,21 @@
+~/D/Lab-2--Repository (master) $ git log
+commit 8f818c555f889ef988cf9456d1bd03dd79f636b4
+Author: ec8136 <cthchan@ucdavis.edu>
+Date:   Thu Apr 5 15:27:47 2018 -0700
+
+    added new comment
+
+commit 518bb43a2e2ae0bd608c6a177c03600e3c6a6d06
+Author: Matthew Elford <maelford@ucdavis.edu>
+Date:   Thu Apr 5 15:22:12 2018 -0700
+
+    README.md
+
+commit 271fe62d85514827d73c5eeced84a98696cfa284
+Author: MatthewElford <38116341+MatthewElford@users.noreply.github.com>
+Date:   Thu Apr 5 14:18:09 2018 -0700
+
+    Initial commit
+~/D/Lab-2--Repository (master) $ 
+
+
